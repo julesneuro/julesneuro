@@ -1,1 +1,1 @@
-Using fancy equations to understand intelligence and the brain, at a variety of levels. Interests: computational modelling from behaviour to the single neuron, computational models in neuroimaging and pure / applied machine learning.
+Programmes I've written for a range of applications across cognitive/computational neuroscience, neuroimaging and machine learning.
